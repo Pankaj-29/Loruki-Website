@@ -1,2 +1,2 @@
 # Loruki-Website
-https://pankaj-29.github.io/Loruki-Website/ Live Preview
+Live Preview https://pankaj-29.github.io/Loruki-Website/ 
